@@ -1,0 +1,19 @@
+# MF2K NAME file
+#
+# MODFLOW USG
+# Output Files
+LIST               1   test_case_6.out
+DATA(BINARY)       2   test_case_6.hed
+DATA(BINARY)       40  test_case_6.ccf
+#
+# Global Input Files
+DISU               3   test_case_6.disu
+#
+# Flow Process Input Files
+BAS6               4   test_case_6.ba6
+LPF                7   test_case_6.lpf
+OC                 8   test_case_6.oc
+WEL                9   test_case_6.wel
+CHD                10  test_case_6.chd
+SMS                11  test_case_6.sms
+GNC                12  test_case_6.gnc
